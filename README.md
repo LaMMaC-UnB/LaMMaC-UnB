@@ -1,4 +1,4 @@
-Profile of the Mathematical and Computational Modelling Laboratory of the Department of Mathematics at University of Brasília.
+Profile of the Laboratory of Computational and Mathematical Modelling of the Department of Mathematics at University of Brasília.
 
 Perfil do Laboratório de Matemática Aplicada e Computacional da Universidade de Brasília.
 
